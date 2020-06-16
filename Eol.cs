@@ -6,5 +6,6 @@ namespace TestEol
 {
     class Eol
     {
+
     }
 }
