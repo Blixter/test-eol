@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rbr\\source\\repos\\TestEol\\TestEol.csproj": {}
+    "C:\\Users\\rbr\\source\\repos\\test-eol\\TestEol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rbr\\source\\repos\\TestEol\\TestEol.csproj": {
+    "C:\\Users\\rbr\\source\\repos\\test-eol\\TestEol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rbr\\source\\repos\\TestEol\\TestEol.csproj",
+        "projectUniqueName": "C:\\Users\\rbr\\source\\repos\\test-eol\\TestEol.csproj",
         "projectName": "TestEol",
-        "projectPath": "C:\\Users\\rbr\\source\\repos\\TestEol\\TestEol.csproj",
+        "projectPath": "C:\\Users\\rbr\\source\\repos\\test-eol\\TestEol.csproj",
         "packagesPath": "C:\\Users\\rbr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rbr\\source\\repos\\TestEol\\obj\\",
+        "outputPath": "C:\\Users\\rbr\\source\\repos\\test-eol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
